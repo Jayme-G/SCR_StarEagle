@@ -3,7 +3,7 @@
 **Um protetor de tela bonito, leve e totalmente configurável com efeito starfield 3D, música de fundo e imagem central animada.**
 
 <p align="center">
-  <img src="https://github.com/Jayme-G/SCR_StarEagle/blob/main/icon.png?raw=true"
+  <img src="https://github.com/Jayme-G/SCR_StarEagle/blob/main/imagem.png?raw=true"
        width="300"/>
 </p>
 
